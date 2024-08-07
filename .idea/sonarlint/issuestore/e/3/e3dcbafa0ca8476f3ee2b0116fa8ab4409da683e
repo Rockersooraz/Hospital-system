@@ -1,0 +1,9 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸êç»ÿÿÿÿÿ8ðÈ¬Ö‘2J$4a3250c0-a099-4bfe-ad95-0c5f24bbf079
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÐŸÿü8¦Û±Ö‘2J$6fda7a08-e47c-4dd8-aace-b5cf62b557e9
+s
+java:S1068"0Remove this unused "hospitalName" private field.(²ŠñÀ8À­œÙ‘2J$ce220735-3e02-4b26-b8db-530b4d455778
+v
+java:S1068"3Remove this unused "hospitalAddress" private field.(î×ä½8°ô›Ù‘2J$032917a1-dbe0-46b9-a349-de874a8f0314
+{
+java:S1068"9Remove this unused "hospitalContactnumber" private field.(þ¡Ðw8ŠÖ›Ù‘2J$2b92b92f-ab96-455f-8ecd-8bea0823fb33

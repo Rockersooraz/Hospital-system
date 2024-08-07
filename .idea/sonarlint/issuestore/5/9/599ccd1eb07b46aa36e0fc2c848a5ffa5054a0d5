@@ -1,0 +1,5 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û›ª·8á‰Ú‘2J$7ed51122-41cf-47c9-8c1c-e617bafd2b35
+^	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(™Óú„8¦Ûİ‘2
+r	java:S106$"+Replace this use of System.out by a logger.(öÀ´Üøÿÿÿÿ8ì‰Ú‘2J$74e892b2-ab90-436b-a6b9-66bff8065bc9
+r	java:S106)"+Replace this use of System.out by a logger.(ìêìÉıÿÿÿÿ8í‰Ú‘2J$acf1fd2b-f2b3-4df6-8cea-eb315836c9d1
